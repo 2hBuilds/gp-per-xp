@@ -13,6 +13,7 @@ import java.util.Map;
 import javax.swing.SwingUtilities;
 import org.junit.Before;
 import org.junit.Test;
+import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
 /**
@@ -28,7 +29,21 @@ public class RowWrapLayoutTest
 		+ method(SHORT, 1, 10, 1000, "{\"itemId\":2,\"qty\":1}")
 		+ "," + method(LONG, 1, 25, 1000, "{\"itemId\":1,\"qty\":1}")
 		+ "," + method(SIXTY, 1, 100, 500, "{\"itemId\":3,\"qty\":1}")
+		+ variants()
 		+ "]}";
+
+	/** The name of the row the live panel overlapped, and a dozen longer by one letter each (one sits at the boundary). */
+	private static final String GEM = "Gem rocks, 3-tick (rate at 70)";
+
+	private static String variants()
+	{
+		final StringBuilder out = new StringBuilder(",").append(method(GEM, 1, 10, 1000, "{\"itemId\":2,\"qty\":1}"));
+		for (int i = 1; i <= 14; i++)
+		{
+			out.append(',').append(method(GEM + "xxxxxxxxxxxxxx".substring(0, i), 1, 10, 1000, "{\"itemId\":2,\"qty\":1}"));
+		}
+		return out.toString();
+	}
 
 	private static String method(String name, int level, double xp, int actions, String in)
 	{
@@ -242,8 +257,20 @@ public class RowWrapLayoutTest
 		{
 			panel.showSkill("Prayer");
 			panel.setSize(225, 700);
-			layoutAll(panel);
+			layoutPlain(panel);
 		});
+	}
+
+	private static void layoutPlain(Container c)
+	{
+		c.doLayout();
+		for (Component child : c.getComponents())
+		{
+			if (child instanceof Container)
+			{
+				layoutPlain((Container) child);
+			}
+		}
 	}
 
 	private static void layoutAll(Container c)
@@ -328,6 +355,22 @@ public class RowWrapLayoutTest
 			final ListRow longRow = row(LONG);
 			longRow.setSize(longRow.getWidth(), 40);
 			assertTrue(longRow.valuesBaseline() > longRow.lastNameBaseline());
+		});
+	}
+
+	/** Laid out once, top down, with no invalidation (a panel painted straight after it was sized). */
+	@Test
+	public void everyRowIsAsTallAsItsNameNeedsAtTheBoundary() throws Exception
+	{
+		SwingUtilities.invokeAndWait(() ->
+		{
+			final List<ListRow> rows = new ArrayList<>();
+			collect(panel, rows);
+			for (ListRow row : rows)
+			{
+				assertEquals(row.getName(), row.getPreferredSize().height, row.getHeight());
+				assertTrue(row.getName(), row.valuesBaseline() > row.lastNameBaseline());
+			}
 		});
 	}
 }

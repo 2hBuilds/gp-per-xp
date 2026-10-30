@@ -37,6 +37,7 @@ final class ListView extends JPanel implements Scrollable
 	private final List<TrainingMethod> rowMethods = new ArrayList<>();
 	private Timer markTimer;
 	private ListRow marked;
+	private int laidOutWidth;
 
 	ListView(CardViewer viewer, Consumer<String> browse)
 	{
@@ -257,6 +258,29 @@ final class ListView extends JPanel implements Scrollable
 		{
 			menu.get().show(row, e.getX(), e.getY());
 		}
+	}
+
+	/**
+	 * Choice: the box layout remembers the rows' heights, and a row near a wrap boundary needs another height at the
+	 * width the list is really given than at the width it was first asked about (a row's height is a function of the
+	 * width). So the layout forgets them whenever the list's width is not the one they were laid out at.
+	 */
+	@Override
+	public void doLayout()
+	{
+		if (getWidth() != laidOutWidth)
+		{
+			laidOutWidth = getWidth();
+			invalidate();
+			// The list may have been sized to the old, smaller height: grow it, and tell the scroll pane.
+			final int need = getPreferredSize().height;
+			if (need > getHeight())
+			{
+				setSize(getWidth(), need);
+			}
+			revalidate();
+		}
+		super.doLayout();
 	}
 
 	@Override
