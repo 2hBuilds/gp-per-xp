@@ -1,0 +1,2633 @@
+{
+ "updated": "2026-10-30",
+ "items": [
+  {
+   "name": "Cup of tea",
+   "itemId": 1978,
+   "item": "Cup of tea",
+   "heals": 3,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Cup_of_tea",
+   "note": "Boosts Attack by 2% + 2"
+  },
+  {
+   "name": "Jangerberries",
+   "itemId": 247,
+   "item": "Jangerberries",
+   "heals": 2,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Jangerberries",
+   "note": "Restores 1 prayer point; boosts Attack by 2 and Strength by 1, lowers Defence by 1"
+  },
+  {
+   "name": "Shrimps",
+   "itemId": 315,
+   "item": "Shrimps",
+   "heals": 3,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Shrimps",
+   "note": null
+  },
+  {
+   "name": "Anchovies",
+   "itemId": 319,
+   "item": "Anchovies",
+   "heals": 1,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Anchovies",
+   "note": null
+  },
+  {
+   "name": "Sardine",
+   "itemId": 325,
+   "item": "Sardine",
+   "heals": 4,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Sardine",
+   "note": null
+  },
+  {
+   "name": "Salmon",
+   "itemId": 329,
+   "item": "Salmon",
+   "heals": 9,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Salmon",
+   "note": null
+  },
+  {
+   "name": "Trout",
+   "itemId": 333,
+   "item": "Trout",
+   "heals": 7,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Trout",
+   "note": null
+  },
+  {
+   "name": "Cod",
+   "itemId": 339,
+   "item": "Cod",
+   "heals": 7,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Cod",
+   "note": null
+  },
+  {
+   "name": "Herring",
+   "itemId": 347,
+   "item": "Herring",
+   "heals": 5,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Herring",
+   "note": null
+  },
+  {
+   "name": "Pike",
+   "itemId": 351,
+   "item": "Pike",
+   "heals": 8,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Pike",
+   "note": null
+  },
+  {
+   "name": "Mackerel",
+   "itemId": 355,
+   "item": "Mackerel",
+   "heals": 6,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Mackerel",
+   "note": null
+  },
+  {
+   "name": "Tuna",
+   "itemId": 361,
+   "item": "Tuna",
+   "heals": 10,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Tuna",
+   "note": null
+  },
+  {
+   "name": "Bass",
+   "itemId": 365,
+   "item": "Bass",
+   "heals": 13,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Bass",
+   "note": null
+  },
+  {
+   "name": "Swordfish",
+   "itemId": 373,
+   "item": "Swordfish",
+   "heals": 14,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Swordfish",
+   "note": null
+  },
+  {
+   "name": "Lobster",
+   "itemId": 379,
+   "item": "Lobster",
+   "heals": 12,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Lobster",
+   "note": null
+  },
+  {
+   "name": "Shark",
+   "itemId": 385,
+   "item": "Shark",
+   "heals": 20,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Shark",
+   "note": null
+  },
+  {
+   "name": "Manta ray",
+   "itemId": 391,
+   "item": "Manta ray",
+   "heals": 22,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Manta_ray",
+   "note": null
+  },
+  {
+   "name": "Sea turtle",
+   "itemId": 397,
+   "item": "Sea turtle",
+   "heals": 21,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Sea_turtle",
+   "note": null
+  },
+  {
+   "name": "Edible seaweed",
+   "itemId": 403,
+   "item": "Edible seaweed",
+   "heals": 4,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Edible_seaweed",
+   "note": null
+  },
+  {
+   "name": "Ugthanki meat",
+   "itemId": 1861,
+   "item": "Ugthanki meat",
+   "heals": 3,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Ugthanki_meat",
+   "note": null
+  },
+  {
+   "name": "Chopped tomato",
+   "itemId": 1869,
+   "item": "Chopped tomato",
+   "heals": 2,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Chopped_tomato",
+   "note": null
+  },
+  {
+   "name": "Chopped onion",
+   "itemId": 1871,
+   "item": "Chopped onion",
+   "heals": 1,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Chopped_onion",
+   "note": null
+  },
+  {
+   "name": "Onion & tomato",
+   "itemId": 1875,
+   "item": "Onion & tomato",
+   "heals": 3,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Onion_%26_tomato",
+   "note": null
+  },
+  {
+   "name": "Ugthanki kebab",
+   "itemId": 1885,
+   "item": "Ugthanki kebab",
+   "heals": 19,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Ugthanki_kebab",
+   "note": null
+  },
+  {
+   "name": "Cake",
+   "itemId": 1891,
+   "item": "Cake",
+   "heals": 4,
+   "portions": 3,
+   "source": "https://oldschool.runescape.wiki/w/Cake",
+   "note": null
+  },
+  {
+   "name": "Chocolate cake",
+   "itemId": 1897,
+   "item": "Chocolate cake",
+   "heals": 5,
+   "portions": 3,
+   "source": "https://oldschool.runescape.wiki/w/Chocolate_cake",
+   "note": null
+  },
+  {
+   "name": "Asgarnian ale",
+   "itemId": 1905,
+   "item": "Asgarnian ale",
+   "heals": 1,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Asgarnian_ale",
+   "note": null
+  },
+  {
+   "name": "Wizard's mind bomb",
+   "itemId": 1907,
+   "item": "Wizard's mind bomb",
+   "heals": 1,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Wizard's_mind_bomb",
+   "note": null
+  },
+  {
+   "name": "Greenman's ale",
+   "itemId": 1909,
+   "item": "Greenman's ale",
+   "heals": 1,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Greenman's_ale",
+   "note": null
+  },
+  {
+   "name": "Dragon bitter",
+   "itemId": 1911,
+   "item": "Dragon bitter",
+   "heals": 1,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Dragon_bitter",
+   "note": null
+  },
+  {
+   "name": "Dwarven stout",
+   "itemId": 1913,
+   "item": "Dwarven stout",
+   "heals": 1,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Dwarven_stout",
+   "note": null
+  },
+  {
+   "name": "Grog",
+   "itemId": 1915,
+   "item": "Grog",
+   "heals": 3,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Grog",
+   "note": null
+  },
+  {
+   "name": "Beer",
+   "itemId": 1917,
+   "item": "Beer",
+   "heals": 1,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Beer",
+   "note": null
+  },
+  {
+   "name": "Potato",
+   "itemId": 1942,
+   "item": "Potato",
+   "heals": 1,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Potato",
+   "note": null
+  },
+  {
+   "name": "Onion",
+   "itemId": 1957,
+   "item": "Onion",
+   "heals": 1,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Onion",
+   "note": null
+  },
+  {
+   "name": "Pumpkin",
+   "itemId": 1959,
+   "item": "Pumpkin",
+   "heals": 14,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Pumpkin",
+   "note": null
+  },
+  {
+   "name": "Easter egg",
+   "itemId": 1961,
+   "item": "Easter egg",
+   "heals": 14,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Easter_egg",
+   "note": null
+  },
+  {
+   "name": "Banana",
+   "itemId": 1963,
+   "item": "Banana",
+   "heals": 2,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Banana",
+   "note": null
+  },
+  {
+   "name": "Cabbage",
+   "itemId": 1965,
+   "item": "Cabbage",
+   "heals": 1,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Cabbage",
+   "note": null
+  },
+  {
+   "name": "Spinach roll",
+   "itemId": 1969,
+   "item": "Spinach roll",
+   "heals": 2,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Spinach_roll",
+   "note": null
+  },
+  {
+   "name": "Kebab",
+   "itemId": 1971,
+   "item": "Kebab",
+   "healsFlat": 3,
+   "healsPercent": 7,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Kebab",
+   "note": "Heal shown is the most likely result; can heal 0; rare buffs or drains"
+  },
+  {
+   "name": "Chocolate bar",
+   "itemId": 1973,
+   "item": "Chocolate bar",
+   "heals": 3,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Chocolate_bar",
+   "note": null
+  },
+  {
+   "name": "Tomato",
+   "itemId": 1982,
+   "item": "Tomato",
+   "heals": 2,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Tomato",
+   "note": null
+  },
+  {
+   "name": "Cheese",
+   "itemId": 1985,
+   "item": "Cheese",
+   "heals": 2,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Cheese",
+   "note": null
+  },
+  {
+   "name": "Half full wine jug",
+   "itemId": 1989,
+   "item": "Half full wine jug",
+   "heals": 7,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Half_full_wine_jug",
+   "note": null
+  },
+  {
+   "name": "Jug of wine",
+   "itemId": 1993,
+   "item": "Jug of wine",
+   "heals": 11,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Jug_of_wine",
+   "note": "Lowers Attack by 2"
+  },
+  {
+   "name": "Stew",
+   "itemId": 2003,
+   "item": "Stew",
+   "heals": 11,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Stew",
+   "note": null
+  },
+  {
+   "name": "Curry",
+   "itemId": 2011,
+   "item": "Curry",
+   "heals": 19,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Curry",
+   "note": null
+  },
+  {
+   "name": "Vodka",
+   "itemId": 2015,
+   "item": "Vodka",
+   "heals": 5,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Vodka",
+   "note": null
+  },
+  {
+   "name": "Whisky",
+   "itemId": 2017,
+   "item": "Whisky",
+   "heals": 5,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Whisky",
+   "note": null
+  },
+  {
+   "name": "Gin",
+   "itemId": 2019,
+   "item": "Gin",
+   "heals": 5,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Gin",
+   "note": null
+  },
+  {
+   "name": "Brandy",
+   "itemId": 2021,
+   "item": "Brandy",
+   "heals": 5,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Brandy",
+   "note": null
+  },
+  {
+   "name": "Premade blurb' sp.",
+   "itemId": 2028,
+   "item": "Premade blurb' sp.",
+   "heals": 7,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Premade_blurb'_sp.",
+   "note": null
+  },
+  {
+   "name": "Premade choc s'dy",
+   "itemId": 2030,
+   "item": "Premade choc s'dy",
+   "heals": 5,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Premade_choc_s'dy",
+   "note": null
+  },
+  {
+   "name": "Premade dr' dragon",
+   "itemId": 2032,
+   "item": "Premade dr' dragon",
+   "heals": 5,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Premade_dr'_dragon",
+   "note": null
+  },
+  {
+   "name": "Premade fr' blast",
+   "itemId": 2034,
+   "item": "Premade fr' blast",
+   "heals": 9,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Premade_fr'_blast",
+   "note": null
+  },
+  {
+   "name": "Premade p' punch",
+   "itemId": 2036,
+   "item": "Premade p' punch",
+   "heals": 9,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Premade_p'_punch",
+   "note": null
+  },
+  {
+   "name": "Premade sgg",
+   "itemId": 2038,
+   "item": "Premade sgg",
+   "heals": 5,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Premade_sgg",
+   "note": null
+  },
+  {
+   "name": "Premade wiz blz'd",
+   "itemId": 2040,
+   "item": "Premade wiz blz'd",
+   "heals": 5,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Premade_wiz_blz'd",
+   "note": null
+  },
+  {
+   "name": "Pineapple punch",
+   "itemId": 2048,
+   "item": "Pineapple punch",
+   "heals": 9,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Pineapple_punch",
+   "note": null
+  },
+  {
+   "name": "Wizard blizzard",
+   "itemId": 2054,
+   "item": "Wizard blizzard",
+   "heals": 5,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Wizard_blizzard",
+   "note": null
+  },
+  {
+   "name": "Blurberry special",
+   "itemId": 2064,
+   "item": "Blurberry special",
+   "heals": 7,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Blurberry_special",
+   "note": null
+  },
+  {
+   "name": "Choc saturday",
+   "itemId": 2074,
+   "item": "Choc saturday",
+   "heals": 5,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Choc_saturday",
+   "note": null
+  },
+  {
+   "name": "Short green guy",
+   "itemId": 2080,
+   "item": "Short green guy",
+   "heals": 5,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Short_green_guy",
+   "note": null
+  },
+  {
+   "name": "Fruit blast",
+   "itemId": 2084,
+   "item": "Fruit blast",
+   "heals": 9,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Fruit_blast",
+   "note": null
+  },
+  {
+   "name": "Drunk dragon",
+   "itemId": 2092,
+   "item": "Drunk dragon",
+   "heals": 5,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Drunk_dragon",
+   "note": null
+  },
+  {
+   "name": "Lemon",
+   "itemId": 2102,
+   "item": "Lemon",
+   "heals": 2,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Lemon",
+   "note": null
+  },
+  {
+   "name": "Lemon chunks",
+   "itemId": 2104,
+   "item": "Lemon chunks",
+   "heals": 2,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Lemon_chunks",
+   "note": null
+  },
+  {
+   "name": "Lemon slices",
+   "itemId": 2106,
+   "item": "Lemon slices",
+   "heals": 2,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Lemon_slices",
+   "note": null
+  },
+  {
+   "name": "Orange",
+   "itemId": 2108,
+   "item": "Orange",
+   "heals": 2,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Orange",
+   "note": null
+  },
+  {
+   "name": "Orange chunks",
+   "itemId": 2110,
+   "item": "Orange chunks",
+   "heals": 2,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Orange_chunks",
+   "note": null
+  },
+  {
+   "name": "Orange slices",
+   "itemId": 2112,
+   "item": "Orange slices",
+   "heals": 2,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Orange_slices",
+   "note": null
+  },
+  {
+   "name": "Pineapple",
+   "itemId": 2114,
+   "item": "Pineapple",
+   "heals": 2,
+   "portions": 4,
+   "source": "https://oldschool.runescape.wiki/w/Pineapple",
+   "note": null
+  },
+  {
+   "name": "Pineapple chunks",
+   "itemId": 2116,
+   "item": "Pineapple chunks",
+   "heals": 2,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Pineapple_chunks",
+   "note": null
+  },
+  {
+   "name": "Pineapple ring",
+   "itemId": 2118,
+   "item": "Pineapple ring",
+   "heals": 2,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Pineapple_ring",
+   "note": null
+  },
+  {
+   "name": "Lime",
+   "itemId": 2120,
+   "item": "Lime",
+   "heals": 2,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Lime",
+   "note": null
+  },
+  {
+   "name": "Lime chunks",
+   "itemId": 2122,
+   "item": "Lime chunks",
+   "heals": 2,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Lime_chunks",
+   "note": null
+  },
+  {
+   "name": "Lime slices",
+   "itemId": 2124,
+   "item": "Lime slices",
+   "heals": 2,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Lime_slices",
+   "note": null
+  },
+  {
+   "name": "Dwellberries",
+   "itemId": 2126,
+   "item": "Dwellberries",
+   "heals": 2,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Dwellberries",
+   "note": null
+  },
+  {
+   "name": "Equa leaves",
+   "itemId": 2128,
+   "item": "Equa leaves",
+   "heals": 1,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Equa_leaves",
+   "note": null
+  },
+  {
+   "name": "Pot of cream",
+   "itemId": 2130,
+   "item": "Pot of cream",
+   "heals": 1,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Pot_of_cream",
+   "note": null
+  },
+  {
+   "name": "Cooked chicken",
+   "itemId": 2140,
+   "item": "Cooked chicken",
+   "heals": 3,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Cooked_chicken",
+   "note": null
+  },
+  {
+   "name": "Cooked meat",
+   "itemId": 2142,
+   "item": "Cooked meat",
+   "heals": 3,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Cooked_meat",
+   "note": null
+  },
+  {
+   "name": "Toad's legs",
+   "itemId": 2152,
+   "item": "Toad's legs",
+   "heals": 3,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Toad's_legs",
+   "note": null
+  },
+  {
+   "name": "King worm",
+   "itemId": 2162,
+   "item": "King worm",
+   "heals": 2,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/King_worm",
+   "note": null
+  },
+  {
+   "name": "Chocolate bomb",
+   "itemId": 2185,
+   "item": "Chocolate bomb",
+   "heals": 15,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Chocolate_bomb",
+   "note": null
+  },
+  {
+   "name": "Tangled toad's legs",
+   "itemId": 2187,
+   "item": "Tangled toad's legs",
+   "heals": 15,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Tangled_toad's_legs",
+   "note": null
+  },
+  {
+   "name": "Worm hole",
+   "itemId": 2191,
+   "item": "Worm hole",
+   "heals": 12,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Worm_hole",
+   "note": null
+  },
+  {
+   "name": "Veg ball",
+   "itemId": 2195,
+   "item": "Veg ball",
+   "heals": 12,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Veg_ball",
+   "note": null
+  },
+  {
+   "name": "Worm crunchies",
+   "itemId": 2205,
+   "item": "Worm crunchies",
+   "heals": 8,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Worm_crunchies",
+   "note": null
+  },
+  {
+   "name": "Chocchip crunchies",
+   "itemId": 2209,
+   "item": "Chocchip crunchies",
+   "heals": 7,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Chocchip_crunchies",
+   "note": null
+  },
+  {
+   "name": "Spicy crunchies",
+   "itemId": 2213,
+   "item": "Spicy crunchies",
+   "heals": 7,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Spicy_crunchies",
+   "note": null
+  },
+  {
+   "name": "Toad crunchies",
+   "itemId": 2217,
+   "item": "Toad crunchies",
+   "heals": 8,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Toad_crunchies",
+   "note": null
+  },
+  {
+   "name": "Premade w'm batta",
+   "itemId": 2219,
+   "item": "Premade w'm batta",
+   "heals": 11,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Premade_w'm_batta",
+   "note": null
+  },
+  {
+   "name": "Premade t'd batta",
+   "itemId": 2221,
+   "item": "Premade t'd batta",
+   "heals": 11,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Premade_t'd_batta",
+   "note": null
+  },
+  {
+   "name": "Premade c+t batta",
+   "itemId": 2223,
+   "item": "Premade c+t batta",
+   "heals": 11,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Premade_c%2Bt_batta",
+   "note": null
+  },
+  {
+   "name": "Premade fr't batta",
+   "itemId": 2225,
+   "item": "Premade fr't batta",
+   "heals": 11,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Premade_fr't_batta",
+   "note": null
+  },
+  {
+   "name": "Premade veg batta",
+   "itemId": 2227,
+   "item": "Premade veg batta",
+   "heals": 11,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Premade_veg_batta",
+   "note": null
+  },
+  {
+   "name": "Premade choc bomb",
+   "itemId": 2229,
+   "item": "Premade choc bomb",
+   "heals": 15,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Premade_choc_bomb",
+   "note": null
+  },
+  {
+   "name": "Premade ttl",
+   "itemId": 2231,
+   "item": "Premade ttl",
+   "heals": 15,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Premade_ttl",
+   "note": null
+  },
+  {
+   "name": "Premade worm hole",
+   "itemId": 2233,
+   "item": "Premade worm hole",
+   "heals": 12,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Premade_worm_hole",
+   "note": null
+  },
+  {
+   "name": "Premade veg ball",
+   "itemId": 2235,
+   "item": "Premade veg ball",
+   "heals": 12,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Premade_veg_ball",
+   "note": null
+  },
+  {
+   "name": "Premade w'm crun'",
+   "itemId": 2237,
+   "item": "Premade w'm crun'",
+   "heals": 8,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Premade_w'm_crun'",
+   "note": null
+  },
+  {
+   "name": "Premade ch' crunch",
+   "itemId": 2239,
+   "item": "Premade ch' crunch",
+   "heals": 8,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Premade_ch'_crunch",
+   "note": null
+  },
+  {
+   "name": "Premade s'y crunch",
+   "itemId": 2241,
+   "item": "Premade s'y crunch",
+   "heals": 7,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Premade_s'y_crunch",
+   "note": null
+  },
+  {
+   "name": "Premade t'd crunch",
+   "itemId": 2243,
+   "item": "Premade t'd crunch",
+   "heals": 8,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Premade_t'd_crunch",
+   "note": null
+  },
+  {
+   "name": "Worm batta",
+   "itemId": 2253,
+   "item": "Worm batta",
+   "heals": 11,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Worm_batta",
+   "note": null
+  },
+  {
+   "name": "Toad batta",
+   "itemId": 2255,
+   "item": "Toad batta",
+   "heals": 11,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Toad_batta",
+   "note": null
+  },
+  {
+   "name": "Cheese+tom batta",
+   "itemId": 2259,
+   "item": "Cheese+tom batta",
+   "heals": 11,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Cheese%2Btom_batta",
+   "note": null
+  },
+  {
+   "name": "Fruit batta",
+   "itemId": 2277,
+   "item": "Fruit batta",
+   "heals": 11,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Fruit_batta",
+   "note": null
+  },
+  {
+   "name": "Vegetable batta",
+   "itemId": 2281,
+   "item": "Vegetable batta",
+   "heals": 11,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Vegetable_batta",
+   "note": null
+  },
+  {
+   "name": "Plain pizza",
+   "itemId": 2289,
+   "item": "Plain pizza",
+   "heals": 7,
+   "portions": 2,
+   "source": "https://oldschool.runescape.wiki/w/Plain_pizza",
+   "note": null
+  },
+  {
+   "name": "Meat pizza",
+   "itemId": 2293,
+   "item": "Meat pizza",
+   "heals": 8,
+   "portions": 2,
+   "source": "https://oldschool.runescape.wiki/w/Meat_pizza",
+   "note": null
+  },
+  {
+   "name": "Anchovy pizza",
+   "itemId": 2297,
+   "item": "Anchovy pizza",
+   "heals": 9,
+   "portions": 2,
+   "source": "https://oldschool.runescape.wiki/w/Anchovy_pizza",
+   "note": null
+  },
+  {
+   "name": "Pineapple pizza",
+   "itemId": 2301,
+   "item": "Pineapple pizza",
+   "heals": 11,
+   "portions": 2,
+   "source": "https://oldschool.runescape.wiki/w/Pineapple_pizza",
+   "note": null
+  },
+  {
+   "name": "Bread",
+   "itemId": 2309,
+   "item": "Bread",
+   "heals": 5,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Bread",
+   "note": null
+  },
+  {
+   "name": "Apple pie",
+   "itemId": 2323,
+   "item": "Apple pie",
+   "heals": 7,
+   "portions": 2,
+   "source": "https://oldschool.runescape.wiki/w/Apple_pie",
+   "note": null
+  },
+  {
+   "name": "Ixcoztic white",
+   "itemId": 29952,
+   "item": "Ixcoztic white",
+   "heals": 16,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Ixcoztic_white",
+   "note": "Lowers Attack by 5 and Herblore by 1, boosts Farming by 1"
+  },
+  {
+   "name": "Redberry pie",
+   "itemId": 2325,
+   "item": "Redberry pie",
+   "heals": 5,
+   "portions": 2,
+   "source": "https://oldschool.runescape.wiki/w/Redberry_pie",
+   "note": null
+  },
+  {
+   "name": "Meat pie",
+   "itemId": 2327,
+   "item": "Meat pie",
+   "heals": 6,
+   "portions": 2,
+   "source": "https://oldschool.runescape.wiki/w/Meat_pie",
+   "note": null
+  },
+  {
+   "name": "Cooked oomlie wrap",
+   "itemId": 2343,
+   "item": "Cooked oomlie wrap",
+   "heals": 14,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Cooked_oomlie_wrap",
+   "note": null
+  },
+  {
+   "name": "Cooked chompy",
+   "itemId": 2878,
+   "item": "Cooked chompy",
+   "heals": 11,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Cooked_chompy",
+   "note": null
+  },
+  {
+   "name": "Moonlight mead",
+   "itemId": 2955,
+   "item": "Moonlight mead",
+   "heals": 4,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Moonlight_mead",
+   "note": null
+  },
+  {
+   "name": "Cooked karambwan",
+   "itemId": 3144,
+   "item": "Cooked karambwan",
+   "heals": 18,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Cooked_karambwan",
+   "note": "Can be eaten in the same tick as other food (combo eating); 2-tick attack delay"
+  },
+  {
+   "name": "Sliced banana",
+   "itemId": 3162,
+   "item": "Sliced banana",
+   "heals": 2,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Sliced_banana",
+   "note": null
+  },
+  {
+   "name": "Cooked rabbit",
+   "itemId": 3228,
+   "item": "Cooked rabbit",
+   "heals": 5,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Cooked_rabbit",
+   "note": null
+  },
+  {
+   "name": "Thin snail meat",
+   "itemId": 3369,
+   "item": "Thin snail meat",
+   "healsLow": 5,
+   "healsHigh": 7,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Thin_snail_meat",
+   "note": null
+  },
+  {
+   "name": "Lean snail meat",
+   "itemId": 3371,
+   "item": "Lean snail meat",
+   "healsLow": 5,
+   "healsHigh": 8,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Lean_snail_meat",
+   "note": null
+  },
+  {
+   "name": "Fat snail meat",
+   "itemId": 3373,
+   "item": "Fat snail meat",
+   "healsLow": 7,
+   "healsHigh": 9,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Fat_snail_meat",
+   "note": null
+  },
+  {
+   "name": "Cooked slimy eel",
+   "itemId": 3381,
+   "item": "Cooked slimy eel",
+   "healsLow": 6,
+   "healsHigh": 10,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Cooked_slimy_eel",
+   "note": null
+  },
+  {
+   "name": "Keg of beer",
+   "itemId": 3801,
+   "item": "Keg of beer",
+   "heals": 15,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Keg_of_beer",
+   "note": null
+  },
+  {
+   "name": "Beer tankard",
+   "itemId": 3803,
+   "item": "Beer tankard",
+   "heals": 4,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Beer_tankard",
+   "note": null
+  },
+  {
+   "name": "Monkey nuts",
+   "itemId": 4012,
+   "item": "Monkey nuts",
+   "heals": 4,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Monkey_nuts",
+   "note": null
+  },
+  {
+   "name": "Monkey bar",
+   "itemId": 4014,
+   "item": "Monkey bar",
+   "heals": 5,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Monkey_bar",
+   "note": null
+  },
+  {
+   "name": "Banana stew",
+   "itemId": 4016,
+   "item": "Banana stew",
+   "heals": 11,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Banana_stew",
+   "note": null
+  },
+  {
+   "name": "Guthix rest",
+   "itemId": 4417,
+   "item": "Guthix rest(4)",
+   "heals": 5,
+   "portions": 4,
+   "source": "https://oldschool.runescape.wiki/w/Guthix_rest",
+   "note": "Can overheal by 5; restores 5% run energy; cures poison"
+  },
+  {
+   "name": "Giant frog legs",
+   "itemId": 4517,
+   "item": "Giant frog legs",
+   "heals": 6,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Giant_frog_legs",
+   "note": null
+  },
+  {
+   "name": "Purple sweets",
+   "itemId": 10476,
+   "item": "Purple sweets",
+   "healsLow": 1,
+   "healsHigh": 3,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Purple_sweets",
+   "note": null
+  },
+  {
+   "name": "Super kebab",
+   "itemId": 4608,
+   "item": "Super kebab",
+   "healsFlat": 3,
+   "healsPercent": 7,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Super_kebab",
+   "note": "Heal shown is the most likely result; uncommon chance to heal 0; rare chance to drain a random skill by 3"
+  },
+  {
+   "name": "Bandit's brew",
+   "itemId": 4627,
+   "item": "Bandit's brew",
+   "heals": 1,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Bandit's_brew",
+   "note": null
+  },
+  {
+   "name": "Cave eel",
+   "itemId": 5003,
+   "item": "Cave eel",
+   "healsLow": 8,
+   "healsHigh": 12,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Cave_eel",
+   "note": null
+  },
+  {
+   "name": "Strawberry",
+   "itemId": 5504,
+   "item": "Strawberry",
+   "healsFlat": 1,
+   "healsPercent": 6,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Strawberry",
+   "note": "Heals 1 + 6% of Hitpoints"
+  },
+  {
+   "name": "Basket of strawberries",
+   "itemId": 5406,
+   "item": "Strawberries(5)",
+   "healsFlat": 1,
+   "healsPercent": 6,
+   "portions": 5,
+   "source": "https://oldschool.runescape.wiki/w/Strawberry",
+   "note": "Basket of 5 strawberries, each 1 + 6% of Hitpoints"
+  },
+  {
+   "name": "Asgarnian ale(m)",
+   "itemId": 5739,
+   "item": "Asgarnian ale(m)",
+   "heals": 2,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Asgarnian_ale(m)",
+   "note": null
+  },
+  {
+   "name": "Mature wmb",
+   "itemId": 5741,
+   "item": "Mature wmb",
+   "heals": 2,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Mature_wmb",
+   "note": null
+  },
+  {
+   "name": "Greenman's ale(m)",
+   "itemId": 5743,
+   "item": "Greenman's ale(m)",
+   "heals": 2,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Greenman's_ale(m)",
+   "note": null
+  },
+  {
+   "name": "Dragon bitter(m)",
+   "itemId": 5745,
+   "item": "Dragon bitter(m)",
+   "heals": 2,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Dragon_bitter(m)",
+   "note": null
+  },
+  {
+   "name": "Dwarven stout(m)",
+   "itemId": 5747,
+   "item": "Dwarven stout(m)",
+   "heals": 2,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Dwarven_stout(m)",
+   "note": null
+  },
+  {
+   "name": "Moonlight mead(m)",
+   "itemId": 5749,
+   "item": "Moonlight mead(m)",
+   "heals": 6,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Moonlight_mead(m)",
+   "note": null
+  },
+  {
+   "name": "Axeman's folly",
+   "itemId": 5751,
+   "item": "Axeman's folly",
+   "heals": 1,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Axeman's_folly",
+   "note": null
+  },
+  {
+   "name": "Axeman's folly(m)",
+   "itemId": 5753,
+   "item": "Axeman's folly(m)",
+   "heals": 2,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Axeman's_folly(m)",
+   "note": null
+  },
+  {
+   "name": "Chef's delight",
+   "itemId": 5755,
+   "item": "Chef's delight",
+   "heals": 1,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Chef's_delight",
+   "note": null
+  },
+  {
+   "name": "Chef's delight(m)",
+   "itemId": 5757,
+   "item": "Chef's delight(m)",
+   "heals": 2,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Chef's_delight(m)",
+   "note": null
+  },
+  {
+   "name": "Slayer's respite",
+   "itemId": 5759,
+   "item": "Slayer's respite",
+   "heals": 1,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Slayer's_respite",
+   "note": null
+  },
+  {
+   "name": "Slayer's respite(m)",
+   "itemId": 5761,
+   "item": "Slayer's respite(m)",
+   "heals": 2,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Slayer's_respite(m)",
+   "note": null
+  },
+  {
+   "name": "Cider",
+   "itemId": 5763,
+   "item": "Cider",
+   "heals": 1,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Cider",
+   "note": null
+  },
+  {
+   "name": "Mature cider",
+   "itemId": 5765,
+   "item": "Mature cider",
+   "heals": 2,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Mature_cider",
+   "note": null
+  },
+  {
+   "name": "Greenmans ale(4)",
+   "itemId": 5793,
+   "item": "Greenmans ale(4)",
+   "heals": 1,
+   "portions": 4,
+   "source": "https://oldschool.runescape.wiki/w/Greenmans_ale(4)",
+   "note": null
+  },
+  {
+   "name": "Mind bomb(4)",
+   "itemId": 5801,
+   "item": "Mind bomb(4)",
+   "heals": 1,
+   "portions": 4,
+   "source": "https://oldschool.runescape.wiki/w/Mind_bomb(4)",
+   "note": null
+  },
+  {
+   "name": "Dwarven stout(m4)",
+   "itemId": 5857,
+   "item": "Dwarven stout(m4)",
+   "heals": 2,
+   "portions": 4,
+   "source": "https://oldschool.runescape.wiki/w/Dwarven_stout(m4)",
+   "note": null
+  },
+  {
+   "name": "Asgarnian ale(m4)",
+   "itemId": 5865,
+   "item": "Asgarnian ale(m4)",
+   "heals": 2,
+   "portions": 4,
+   "source": "https://oldschool.runescape.wiki/w/Asgarnian_ale(m4)",
+   "note": null
+  },
+  {
+   "name": "Greenmans ale(m4)",
+   "itemId": 5873,
+   "item": "Greenmans ale(m4)",
+   "heals": 2,
+   "portions": 4,
+   "source": "https://oldschool.runescape.wiki/w/Greenmans_ale(m4)",
+   "note": null
+  },
+  {
+   "name": "Mind bomb(m4)",
+   "itemId": 5881,
+   "item": "Mind bomb(m4)",
+   "heals": 2,
+   "portions": 4,
+   "source": "https://oldschool.runescape.wiki/w/Mind_bomb(m4)",
+   "note": null
+  },
+  {
+   "name": "Dragon bitter(m4)",
+   "itemId": 5889,
+   "item": "Dragon bitter(m4)",
+   "heals": 2,
+   "portions": 4,
+   "source": "https://oldschool.runescape.wiki/w/Dragon_bitter(m4)",
+   "note": null
+  },
+  {
+   "name": "Moonlight mead(m4)",
+   "itemId": 5897,
+   "item": "Moonlight mead(m4)",
+   "heals": 6,
+   "portions": 4,
+   "source": "https://oldschool.runescape.wiki/w/Moonlight_mead(m4)",
+   "note": null
+  },
+  {
+   "name": "Axeman's folly(m4)",
+   "itemId": 5905,
+   "item": "Axeman's folly(m4)",
+   "heals": 2,
+   "portions": 4,
+   "source": "https://oldschool.runescape.wiki/w/Axeman's_folly(m4)",
+   "note": null
+  },
+  {
+   "name": "Chef's delight(m4)",
+   "itemId": 5913,
+   "item": "Chef's delight(m4)",
+   "heals": 2,
+   "portions": 4,
+   "source": "https://oldschool.runescape.wiki/w/Chef's_delight(m4)",
+   "note": null
+  },
+  {
+   "name": "Slayer's respite(m4)",
+   "itemId": 5921,
+   "item": "Slayer's respite(m4)",
+   "heals": 2,
+   "portions": 4,
+   "source": "https://oldschool.runescape.wiki/w/Slayer's_respite(m4)",
+   "note": null
+  },
+  {
+   "name": "Cider(m4)",
+   "itemId": 5929,
+   "item": "Cider(m4)",
+   "heals": 2,
+   "portions": 4,
+   "source": "https://oldschool.runescape.wiki/w/Cider(m4)",
+   "note": null
+  },
+  {
+   "name": "Papaya fruit",
+   "itemId": 5972,
+   "item": "Papaya fruit",
+   "heals": 8,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Papaya_fruit",
+   "note": null
+  },
+  {
+   "name": "Watermelon",
+   "itemId": 5982,
+   "item": "Watermelon",
+   "healsFlat": 1,
+   "healsPercent": 5,
+   "portions": 3,
+   "source": "https://oldschool.runescape.wiki/w/Watermelon",
+   "note": "Must be sliced with a knife first; heals 1 + 5% of Hitpoints per slice"
+  },
+  {
+   "name": "Watermelon slice",
+   "itemId": 5984,
+   "item": "Watermelon slice",
+   "healsFlat": 1,
+   "healsPercent": 5,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Watermelon_slice",
+   "note": "Heals 1 + 5% of Hitpoints"
+  },
+  {
+   "name": "Cooked sweetcorn",
+   "itemId": 5988,
+   "item": "Cooked sweetcorn",
+   "healsFlat": 1,
+   "healsPercent": 10,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Cooked_sweetcorn",
+   "note": "Heals 1 + 10% of Hitpoints, rounded down"
+  },
+  {
+   "name": "Spider on stick",
+   "itemId": 6297,
+   "item": "Spider on stick",
+   "healsLow": 7,
+   "healsHigh": 10,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Spider_on_stick",
+   "note": null
+  },
+  {
+   "name": "Spider on shaft",
+   "itemId": 6299,
+   "item": "Spider on shaft",
+   "healsLow": 7,
+   "healsHigh": 10,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Spider_on_shaft",
+   "note": null
+  },
+  {
+   "name": "Gout tuber",
+   "itemId": 6311,
+   "item": "Gout tuber",
+   "heals": 12,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Gout_tuber",
+   "note": null
+  },
+  {
+   "name": "Saradomin brew",
+   "itemId": 6685,
+   "item": "Saradomin brew(4)",
+   "healsFlat": 2,
+   "healsPercent": 15,
+   "portions": 4,
+   "source": "https://oldschool.runescape.wiki/w/Saradomin_brew",
+   "note": "Lowers Attack, Strength, Magic and Ranged; boosts Defence; can overheal"
+  },
+  {
+   "name": "Armadyl brew",
+   "itemId": 31650,
+   "item": "Armadyl brew(4)",
+   "healsFlat": 2,
+   "healsPercent": 10,
+   "portions": 4,
+   "source": "https://oldschool.runescape.wiki/w/Armadyl_brew",
+   "note": "Lowers offensive stats; can overheal"
+  },
+  {
+   "name": "Baked potato",
+   "itemId": 6701,
+   "item": "Baked potato",
+   "heals": 4,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Baked_potato",
+   "note": null
+  },
+  {
+   "name": "Potato with butter",
+   "itemId": 6703,
+   "item": "Potato with butter",
+   "heals": 14,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Potato_with_butter",
+   "note": null
+  },
+  {
+   "name": "Potato with cheese",
+   "itemId": 6705,
+   "item": "Potato with cheese",
+   "heals": 16,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Potato_with_cheese",
+   "note": null
+  },
+  {
+   "name": "Choc-ice",
+   "itemId": 6794,
+   "item": "Choc-ice",
+   "heals": 7,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Choc-ice",
+   "note": "Negates desert heat damage"
+  },
+  {
+   "name": "Triangle sandwich",
+   "itemId": 6962,
+   "item": "Triangle sandwich",
+   "heals": 6,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Triangle_sandwich",
+   "note": null
+  },
+  {
+   "name": "Chilli potato",
+   "itemId": 7054,
+   "item": "Chilli potato",
+   "heals": 14,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Chilli_potato",
+   "note": null
+  },
+  {
+   "name": "Egg potato",
+   "itemId": 7056,
+   "item": "Egg potato",
+   "heals": 16,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Egg_potato",
+   "note": null
+  },
+  {
+   "name": "Mushroom potato",
+   "itemId": 7058,
+   "item": "Mushroom potato",
+   "heals": 20,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Mushroom_potato",
+   "note": null
+  },
+  {
+   "name": "Tuna potato",
+   "itemId": 7060,
+   "item": "Tuna potato",
+   "heals": 22,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Tuna_potato",
+   "note": null
+  },
+  {
+   "name": "Chilli con carne",
+   "itemId": 7062,
+   "item": "Chilli con carne",
+   "heals": 5,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Chilli_con_carne",
+   "note": null
+  },
+  {
+   "name": "Egg and tomato",
+   "itemId": 7064,
+   "item": "Egg and tomato",
+   "heals": 8,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Egg_and_tomato",
+   "note": null
+  },
+  {
+   "name": "Mushroom & onion",
+   "itemId": 7066,
+   "item": "Mushroom & onion",
+   "heals": 11,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Mushroom_%26_onion",
+   "note": null
+  },
+  {
+   "name": "Tuna and corn",
+   "itemId": 7068,
+   "item": "Tuna and corn",
+   "heals": 13,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Tuna_and_corn",
+   "note": null
+  },
+  {
+   "name": "Minced meat",
+   "itemId": 7070,
+   "item": "Minced meat",
+   "heals": 13,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Minced_meat",
+   "note": null
+  },
+  {
+   "name": "Spicy sauce",
+   "itemId": 7072,
+   "item": "Spicy sauce",
+   "heals": 2,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Spicy_sauce",
+   "note": null
+  },
+  {
+   "name": "Scrambled egg",
+   "itemId": 7078,
+   "item": "Scrambled egg",
+   "heals": 5,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Scrambled_egg",
+   "note": null
+  },
+  {
+   "name": "Fried mushrooms",
+   "itemId": 7082,
+   "item": "Fried mushrooms",
+   "heals": 5,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Fried_mushrooms",
+   "note": null
+  },
+  {
+   "name": "Fried onions",
+   "itemId": 7084,
+   "item": "Fried onions",
+   "heals": 5,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Fried_onions",
+   "note": null
+  },
+  {
+   "name": "Chopped tuna",
+   "itemId": 7086,
+   "item": "Chopped tuna",
+   "heals": 10,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Chopped_tuna",
+   "note": null
+  },
+  {
+   "name": "Garden pie",
+   "itemId": 7178,
+   "item": "Garden pie",
+   "heals": 6,
+   "portions": 2,
+   "source": "https://oldschool.runescape.wiki/w/Garden_pie",
+   "note": "Boosts Farming by 3"
+  },
+  {
+   "name": "Fish pie",
+   "itemId": 7188,
+   "item": "Fish pie",
+   "heals": 6,
+   "portions": 2,
+   "source": "https://oldschool.runescape.wiki/w/Fish_pie",
+   "note": "Boosts Fishing by 3"
+  },
+  {
+   "name": "Admiral pie",
+   "itemId": 7198,
+   "item": "Admiral pie",
+   "heals": 8,
+   "portions": 2,
+   "source": "https://oldschool.runescape.wiki/w/Admiral_pie",
+   "note": "Boosts Fishing by 5"
+  },
+  {
+   "name": "Wild pie",
+   "itemId": 7208,
+   "item": "Wild pie",
+   "heals": 11,
+   "portions": 2,
+   "source": "https://oldschool.runescape.wiki/w/Wild_pie",
+   "note": "Boosts Slayer by 5 and Ranged by 4"
+  },
+  {
+   "name": "Summer pie",
+   "itemId": 7218,
+   "item": "Summer pie",
+   "heals": 11,
+   "portions": 2,
+   "source": "https://oldschool.runescape.wiki/w/Summer_pie",
+   "note": "Boosts Agility by 5; restores 10% run energy"
+  },
+  {
+   "name": "Roast rabbit",
+   "itemId": 7223,
+   "item": "Roast rabbit",
+   "heals": 7,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Roast_rabbit",
+   "note": null
+  },
+  {
+   "name": "Cooked giant crab meat",
+   "itemId": 7521,
+   "item": "Cooked giant crab meat",
+   "heals": 2,
+   "portions": 5,
+   "source": "https://oldschool.runescape.wiki/w/Cooked_giant_crab_meat",
+   "note": "Each bite has a 2-tick eat delay"
+  },
+  {
+   "name": "Cooked jubbly",
+   "itemId": 7568,
+   "item": "Cooked jubbly",
+   "heals": 15,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Cooked_jubbly",
+   "note": null
+  },
+  {
+   "name": "Bottle of wine",
+   "itemId": 7919,
+   "item": "Bottle of wine",
+   "heals": 14,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Bottle_of_wine",
+   "note": null
+  },
+  {
+   "name": "Monkfish",
+   "itemId": 7946,
+   "item": "Monkfish",
+   "heals": 16,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Monkfish",
+   "note": null
+  },
+  {
+   "name": "Locust meat",
+   "itemId": 9052,
+   "item": "Locust meat",
+   "heals": 3,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Locust_meat",
+   "note": null
+  },
+  {
+   "name": "Roast bird meat",
+   "itemId": 9980,
+   "item": "Roast bird meat",
+   "heals": 6,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Roast_bird_meat",
+   "note": null
+  },
+  {
+   "name": "Roast beast meat",
+   "itemId": 9988,
+   "item": "Roast beast meat",
+   "heals": 8,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Roast_beast_meat",
+   "note": null
+  },
+  {
+   "name": "Spicy tomato",
+   "itemId": 9994,
+   "item": "Spicy tomato",
+   "heals": 2,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Spicy_tomato",
+   "note": null
+  },
+  {
+   "name": "Spicy minced meat",
+   "itemId": 9996,
+   "item": "Spicy minced meat",
+   "heals": 3,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Spicy_minced_meat",
+   "note": null
+  },
+  {
+   "name": "Rainbow fish",
+   "itemId": 10136,
+   "item": "Rainbow fish",
+   "heals": 11,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Rainbow_fish",
+   "note": null
+  },
+  {
+   "name": "Roe",
+   "itemId": 11324,
+   "item": "Roe",
+   "heals": 3,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Roe",
+   "note": null
+  },
+  {
+   "name": "Caviar",
+   "itemId": 11326,
+   "item": "Caviar",
+   "heals": 5,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Caviar",
+   "note": null
+  },
+  {
+   "name": "Attack mix(2)",
+   "itemId": 11429,
+   "item": "Attack mix(2)",
+   "heals": 3,
+   "portions": 2,
+   "source": "https://oldschool.runescape.wiki/w/Attack_mix(2)",
+   "note": null
+  },
+  {
+   "name": "Antipoison mix(2)",
+   "itemId": 11433,
+   "item": "Antipoison mix(2)",
+   "heals": 3,
+   "portions": 2,
+   "source": "https://oldschool.runescape.wiki/w/Antipoison_mix(2)",
+   "note": null
+  },
+  {
+   "name": "Relicym's mix(2)",
+   "itemId": 11437,
+   "item": "Relicym's mix(2)",
+   "heals": 3,
+   "portions": 2,
+   "source": "https://oldschool.runescape.wiki/w/Relicym's_mix(2)",
+   "note": null
+  },
+  {
+   "name": "Strength mix(2)",
+   "itemId": 11443,
+   "item": "Strength mix(2)",
+   "heals": 3,
+   "portions": 2,
+   "source": "https://oldschool.runescape.wiki/w/Strength_mix(2)",
+   "note": null
+  },
+  {
+   "name": "Combat mix(2)",
+   "itemId": 11445,
+   "item": "Combat mix(2)",
+   "heals": 3,
+   "portions": 2,
+   "source": "https://oldschool.runescape.wiki/w/Combat_mix(2)",
+   "note": null
+  },
+  {
+   "name": "Restore mix(2)",
+   "itemId": 11449,
+   "item": "Restore mix(2)",
+   "heals": 3,
+   "portions": 2,
+   "source": "https://oldschool.runescape.wiki/w/Restore_mix(2)",
+   "note": null
+  },
+  {
+   "name": "Energy mix(2)",
+   "itemId": 11453,
+   "item": "Energy mix(2)",
+   "heals": 3,
+   "portions": 2,
+   "source": "https://oldschool.runescape.wiki/w/Energy_mix(2)",
+   "note": null
+  },
+  {
+   "name": "Defence mix(2)",
+   "itemId": 11457,
+   "item": "Defence mix(2)",
+   "heals": 6,
+   "portions": 2,
+   "source": "https://oldschool.runescape.wiki/w/Defence_mix(2)",
+   "note": null
+  },
+  {
+   "name": "Agility mix(2)",
+   "itemId": 11461,
+   "item": "Agility mix(2)",
+   "heals": 6,
+   "portions": 2,
+   "source": "https://oldschool.runescape.wiki/w/Agility_mix(2)",
+   "note": null
+  },
+  {
+   "name": "Prayer mix(2)",
+   "itemId": 11465,
+   "item": "Prayer mix(2)",
+   "heals": 6,
+   "portions": 2,
+   "source": "https://oldschool.runescape.wiki/w/Prayer_mix(2)",
+   "note": null
+  },
+  {
+   "name": "Superattack mix(2)",
+   "itemId": 11469,
+   "item": "Superattack mix(2)",
+   "heals": 6,
+   "portions": 2,
+   "source": "https://oldschool.runescape.wiki/w/Superattack_mix(2)",
+   "note": null
+  },
+  {
+   "name": "Anti-poison supermix(2)",
+   "itemId": 11473,
+   "item": "Anti-poison supermix(2)",
+   "heals": 6,
+   "portions": 2,
+   "source": "https://oldschool.runescape.wiki/w/Anti-poison_supermix(2)",
+   "note": null
+  },
+  {
+   "name": "Fishing mix(2)",
+   "itemId": 11477,
+   "item": "Fishing mix(2)",
+   "heals": 6,
+   "portions": 2,
+   "source": "https://oldschool.runescape.wiki/w/Fishing_mix(2)",
+   "note": null
+  },
+  {
+   "name": "Super energy mix(2)",
+   "itemId": 11481,
+   "item": "Super energy mix(2)",
+   "heals": 6,
+   "portions": 2,
+   "source": "https://oldschool.runescape.wiki/w/Super_energy_mix(2)",
+   "note": null
+  },
+  {
+   "name": "Super str. mix(2)",
+   "itemId": 11485,
+   "item": "Super str. mix(2)",
+   "heals": 6,
+   "portions": 2,
+   "source": "https://oldschool.runescape.wiki/w/Super_str._mix(2)",
+   "note": null
+  },
+  {
+   "name": "Magic essence mix(2)",
+   "itemId": 11489,
+   "item": "Magic essence mix(2)",
+   "heals": 6,
+   "portions": 2,
+   "source": "https://oldschool.runescape.wiki/w/Magic_essence_mix(2)",
+   "note": null
+  },
+  {
+   "name": "Super restore mix(2)",
+   "itemId": 11493,
+   "item": "Super restore mix(2)",
+   "heals": 6,
+   "portions": 2,
+   "source": "https://oldschool.runescape.wiki/w/Super_restore_mix(2)",
+   "note": null
+  },
+  {
+   "name": "Super def. mix(2)",
+   "itemId": 11497,
+   "item": "Super def. mix(2)",
+   "heals": 6,
+   "portions": 2,
+   "source": "https://oldschool.runescape.wiki/w/Super_def._mix(2)",
+   "note": null
+  },
+  {
+   "name": "Antidote+ mix(2)",
+   "itemId": 11501,
+   "item": "Antidote+ mix(2)",
+   "heals": 6,
+   "portions": 2,
+   "source": "https://oldschool.runescape.wiki/w/Antidote%2B_mix(2)",
+   "note": null
+  },
+  {
+   "name": "Antifire mix(2)",
+   "itemId": 11505,
+   "item": "Antifire mix(2)",
+   "heals": 6,
+   "portions": 2,
+   "source": "https://oldschool.runescape.wiki/w/Antifire_mix(2)",
+   "note": null
+  },
+  {
+   "name": "Ranging mix(2)",
+   "itemId": 11509,
+   "item": "Ranging mix(2)",
+   "heals": 6,
+   "portions": 2,
+   "source": "https://oldschool.runescape.wiki/w/Ranging_mix(2)",
+   "note": null
+  },
+  {
+   "name": "Magic mix(2)",
+   "itemId": 11513,
+   "item": "Magic mix(2)",
+   "heals": 6,
+   "portions": 2,
+   "source": "https://oldschool.runescape.wiki/w/Magic_mix(2)",
+   "note": null
+  },
+  {
+   "name": "Hunting mix(2)",
+   "itemId": 11517,
+   "item": "Hunting mix(2)",
+   "heals": 6,
+   "portions": 2,
+   "source": "https://oldschool.runescape.wiki/w/Hunting_mix(2)",
+   "note": null
+  },
+  {
+   "name": "Zamorak mix(2)",
+   "itemId": 11521,
+   "item": "Zamorak mix(2)",
+   "heals": 6,
+   "portions": 2,
+   "source": "https://oldschool.runescape.wiki/w/Zamorak_mix(2)",
+   "note": null
+  },
+  {
+   "name": "Dark crab",
+   "itemId": 11936,
+   "item": "Dark crab",
+   "heals": 22,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Dark_crab",
+   "note": "Can only be fished in the Wilderness and the Resource Area"
+  },
+  {
+   "name": "Extended antifire mix(2)",
+   "itemId": 11960,
+   "item": "Extended antifire mix(2)",
+   "heals": 6,
+   "portions": 2,
+   "source": "https://oldschool.runescape.wiki/w/Extended_antifire_mix(2)",
+   "note": null
+  },
+  {
+   "name": "Stamina mix(2)",
+   "itemId": 12633,
+   "item": "Stamina mix(2)",
+   "heals": 6,
+   "portions": 2,
+   "source": "https://oldschool.runescape.wiki/w/Stamina_mix(2)",
+   "note": null
+  },
+  {
+   "name": "Anglerfish (HP 10-19)",
+   "itemId": 13441,
+   "item": "Anglerfish",
+   "healsFlat": 2,
+   "healsPercent": 10,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Anglerfish",
+   "note": "Heal for Hitpoints 10-19 (3 hp); overheals",
+   "hpMin": 10,
+   "hpMax": 19
+  },
+  {
+   "name": "Anglerfish (HP 20-24)",
+   "itemId": 13441,
+   "item": "Anglerfish",
+   "healsFlat": 2,
+   "healsPercent": 10,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Anglerfish",
+   "note": "Heal for Hitpoints 20-24 (4 hp); overheals",
+   "hpMin": 20,
+   "hpMax": 24
+  },
+  {
+   "name": "Anglerfish (HP 25-29)",
+   "itemId": 13441,
+   "item": "Anglerfish",
+   "healsFlat": 4,
+   "healsPercent": 10,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Anglerfish",
+   "note": "Heal for Hitpoints 25-29 (6 hp); overheals",
+   "hpMin": 25,
+   "hpMax": 29
+  },
+  {
+   "name": "Anglerfish (HP 30-39)",
+   "itemId": 13441,
+   "item": "Anglerfish",
+   "healsFlat": 4,
+   "healsPercent": 10,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Anglerfish",
+   "note": "Heal for Hitpoints 30-39 (7 hp); overheals",
+   "hpMin": 30,
+   "hpMax": 39
+  },
+  {
+   "name": "Anglerfish (HP 40-49)",
+   "itemId": 13441,
+   "item": "Anglerfish",
+   "healsFlat": 4,
+   "healsPercent": 10,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Anglerfish",
+   "note": "Heal for Hitpoints 40-49 (8 hp); overheals",
+   "hpMin": 40,
+   "hpMax": 49
+  },
+  {
+   "name": "Anglerfish (HP 50-59)",
+   "itemId": 13441,
+   "item": "Anglerfish",
+   "healsFlat": 6,
+   "healsPercent": 10,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Anglerfish",
+   "note": "Heal for Hitpoints 50-59 (11 hp); overheals",
+   "hpMin": 50,
+   "hpMax": 59
+  },
+  {
+   "name": "Anglerfish (HP 60-69)",
+   "itemId": 13441,
+   "item": "Anglerfish",
+   "healsFlat": 6,
+   "healsPercent": 10,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Anglerfish",
+   "note": "Heal for Hitpoints 60-69 (12 hp); overheals",
+   "hpMin": 60,
+   "hpMax": 69
+  },
+  {
+   "name": "Anglerfish (HP 70-74)",
+   "itemId": 13441,
+   "item": "Anglerfish",
+   "healsFlat": 6,
+   "healsPercent": 10,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Anglerfish",
+   "note": "Heal for Hitpoints 70-74 (13 hp); overheals",
+   "hpMin": 70,
+   "hpMax": 74
+  },
+  {
+   "name": "Anglerfish (HP 75-79)",
+   "itemId": 13441,
+   "item": "Anglerfish",
+   "healsFlat": 8,
+   "healsPercent": 10,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Anglerfish",
+   "note": "Heal for Hitpoints 75-79 (15 hp); overheals",
+   "hpMin": 75,
+   "hpMax": 79
+  },
+  {
+   "name": "Anglerfish (HP 80-89)",
+   "itemId": 13441,
+   "item": "Anglerfish",
+   "healsFlat": 8,
+   "healsPercent": 10,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Anglerfish",
+   "note": "Heal for Hitpoints 80-89 (16 hp); overheals",
+   "hpMin": 80,
+   "hpMax": 89
+  },
+  {
+   "name": "Anglerfish (HP 90-92)",
+   "itemId": 13441,
+   "item": "Anglerfish",
+   "healsFlat": 8,
+   "healsPercent": 10,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Anglerfish",
+   "note": "Heal for Hitpoints 90-92 (17 hp); overheals",
+   "hpMin": 90,
+   "hpMax": 92
+  },
+  {
+   "name": "Anglerfish (HP 93-99)",
+   "itemId": 13441,
+   "item": "Anglerfish",
+   "healsFlat": 13,
+   "healsPercent": 10,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Anglerfish",
+   "note": "Heal for Hitpoints 93-99 (22 hp); overheals",
+   "hpMin": 93,
+   "hpMax": 99
+  },
+  {
+   "name": "Botanical pie",
+   "itemId": 19662,
+   "item": "Botanical pie",
+   "heals": 7,
+   "portions": 2,
+   "source": "https://oldschool.runescape.wiki/w/Botanical_pie",
+   "note": "Boosts Herblore by 4"
+  },
+  {
+   "name": "Mushroom pie",
+   "itemId": 21690,
+   "item": "Mushroom pie",
+   "heals": 8,
+   "portions": 2,
+   "source": "https://oldschool.runescape.wiki/w/Mushroom_pie",
+   "note": "Boosts Crafting by 4"
+  },
+  {
+   "name": "Bloody bracer",
+   "itemId": 22430,
+   "item": "Bloody bracer",
+   "heals": 2,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Bloody_bracer",
+   "note": null
+  },
+  {
+   "name": "Dragonfruit pie",
+   "itemId": 22795,
+   "item": "Dragonfruit pie",
+   "heals": 10,
+   "portions": 2,
+   "source": "https://oldschool.runescape.wiki/w/Dragonfruit_pie",
+   "note": "Boosts Fletching by 4"
+  },
+  {
+   "name": "Dragonfruit",
+   "itemId": 22929,
+   "item": "Dragonfruit",
+   "heals": 10,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Dragonfruit",
+   "note": null
+  },
+  {
+   "name": "Elven dawn",
+   "itemId": 23948,
+   "item": "Elven dawn",
+   "heals": 1,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Elven_dawn",
+   "note": null
+  },
+  {
+   "name": "Cooked mystery meat",
+   "itemId": 24785,
+   "item": "Cooked mystery meat",
+   "heals": 5,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Cooked_mystery_meat",
+   "note": null
+  },
+  {
+   "name": "Ancient mix(2)",
+   "itemId": 26350,
+   "item": "Ancient mix(2)",
+   "heals": 6,
+   "portions": 2,
+   "source": "https://oldschool.runescape.wiki/w/Ancient_mix(2)",
+   "note": null
+  },
+  {
+   "name": "Kovac's grog",
+   "itemId": 27014,
+   "item": "Kovac's grog",
+   "heals": 1,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Kovac's_grog",
+   "note": null
+  },
+  {
+   "name": "Cooked sunlight antelope",
+   "itemId": 29140,
+   "item": "Cooked sunlight antelope",
+   "heals": 21,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Cooked_sunlight_antelope",
+   "note": "Heals 12 at once, 9 more after about 3 seconds"
+  },
+  {
+   "name": "Cooked graahk",
+   "itemId": 29149,
+   "item": "Cooked graahk",
+   "heals": 14,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Cooked_graahk",
+   "note": "Heals 8 at once, 6 more after about 3 seconds"
+  },
+  {
+   "name": "Cooked dashing kebbit",
+   "itemId": 29134,
+   "item": "Cooked dashing kebbit",
+   "heals": 23,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Cooked_dashing_kebbit",
+   "note": "Heals 13 at once, 10 more after about 3 seconds"
+  },
+  {
+   "name": "Cooked moonlight antelope",
+   "itemId": 29143,
+   "item": "Cooked moonlight antelope",
+   "heals": 26,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Cooked_moonlight_antelope",
+   "note": "Heals 14 at once, 12 more after about 3 seconds"
+  },
+  {
+   "name": "Cooked pyre fox",
+   "itemId": 29137,
+   "item": "Cooked pyre fox",
+   "heals": 19,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Cooked_pyre_fox",
+   "note": "Heals 11 at once, 8 more after about 3 seconds"
+  },
+  {
+   "name": "Cooked kyatt",
+   "itemId": 29152,
+   "item": "Cooked kyatt",
+   "heals": 17,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Cooked_kyatt",
+   "note": "Heals 9 at once, 8 more after about 3 seconds"
+  },
+  {
+   "name": "Cooked barb-tailed kebbit",
+   "itemId": 29131,
+   "item": "Cooked barb-tailed kebbit",
+   "heals": 12,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Cooked_barb-tailed_kebbit",
+   "note": "Heals 7 at once, 5 more after about 3 seconds"
+  },
+  {
+   "name": "Cooked larupia",
+   "itemId": 29146,
+   "item": "Cooked larupia",
+   "heals": 11,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Cooked_larupia",
+   "note": "Heals 6 at once, 5 more after about 3 seconds"
+  },
+  {
+   "name": "Cooked wild kebbit",
+   "itemId": 29128,
+   "item": "Cooked wild kebbit",
+   "heals": 8,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Cooked_wild_kebbit",
+   "note": "Heals 4 at once, 4 more after about 3 seconds"
+  },
+  {
+   "name": "Varlamorian kebab",
+   "itemId": 29900,
+   "item": "Varlamorian kebab",
+   "healsFlat": 4,
+   "healsPercent": 10,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Varlamorian_kebab",
+   "note": "Heals 3-30; heal shown is the wiki average; chance to boost Attack, Defence and Strength by 2"
+  },
+  {
+   "name": "Giant krill",
+   "itemId": 32312,
+   "item": "Giant krill",
+   "heals": 17,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Giant_krill",
+   "note": null
+  },
+  {
+   "name": "Haddock",
+   "itemId": 32320,
+   "item": "Haddock",
+   "heals": 18,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Haddock",
+   "note": "Can overheal by 20% of base Hitpoints or 10, whichever is lower"
+  },
+  {
+   "name": "Yellowfin",
+   "itemId": 32328,
+   "item": "Yellowfin",
+   "heals": 19,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Yellowfin",
+   "note": "Restores 20% run energy"
+  },
+  {
+   "name": "Halibut",
+   "itemId": 32336,
+   "item": "Halibut",
+   "heals": 20,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Halibut",
+   "note": "Can be eaten in the same tick as other food (combo eating); 2-tick attack delay"
+  },
+  {
+   "name": "Bluefin",
+   "itemId": 32344,
+   "item": "Bluefin",
+   "heals": 22,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Bluefin",
+   "note": "Restores 5 prayer points"
+  },
+  {
+   "name": "Marlin",
+   "itemId": 32352,
+   "item": "Marlin",
+   "heals": 24,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Marlin",
+   "note": null
+  },
+  {
+   "name": "Swordtip squid",
+   "itemId": 31556,
+   "item": "Swordtip squid",
+   "heals": 15,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Swordtip_squid",
+   "note": null
+  },
+  {
+   "name": "Jumbo squid",
+   "itemId": 31564,
+   "item": "Jumbo squid",
+   "heals": 17,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Jumbo_squid",
+   "note": null
+  },
+  {
+   "name": "Red crab meat",
+   "itemId": 31689,
+   "item": "Red crab meat",
+   "heals": 8,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Red_crab_meat",
+   "note": null
+  },
+  {
+   "name": "Blue crab meat",
+   "itemId": 31695,
+   "item": "Blue crab meat",
+   "heals": 14,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Blue_crab_meat",
+   "note": null
+  },
+  {
+   "name": "Rainbow crab meat",
+   "itemId": 31703,
+   "item": "Rainbow crab meat",
+   "heals": 19,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Rainbow_crab_meat",
+   "note": null
+  },
+  {
+   "name": "Cooked t-bone steak",
+   "itemId": 33109,
+   "item": "Cooked t-bone steak",
+   "heals": 9,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Cooked_t-bone_steak",
+   "note": "Boosts Strength by 2"
+  },
+  {
+   "name": "Tonameyo white",
+   "itemId": 29958,
+   "item": "Tonameyo white",
+   "heals": 16,
+   "portions": 1,
+   "source": "https://oldschool.runescape.wiki/w/Tonameyo_white",
+   "note": "Restores 1 prayer point; lowers Attack by 5 and Thieving by 1"
+  }
+ ]
+}
